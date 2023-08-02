@@ -1,0 +1,7 @@
+__pycache__
+build
+published
+sphinx_settings.json
+*~
+*.pyc
+build_info
